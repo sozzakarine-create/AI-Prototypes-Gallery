@@ -1,6 +1,7 @@
 # AI-Prototypes-Gallery
 Prompt history, assets, index e Prototypes
 Links dos Protótipos de IA
+* [App Estratégia de produto](https://aistudio.google.com/apps/097fadbd-8b54-4359-b581-ac339c857c12?source=&showAssistant=true&showCode=true)(https://estrategia-produto.netlify.app/)
 * [PodCast Mapeamento de mercado](https://notebooklm.google.com/notebook/0be65332-d365-4a61-8ffa-cb549273586b)
 * [Spotify curadoria musical versão 1](https://ai.studio/apps/a8f5bb3d-78a8-4583-9f18-7eea722b4721?fullscreenApplet=true)
 * [Amazon Future Gap recomendações versão 1](https://ai.studio/apps/drive/17OUhOCMIWp9ju3IEOBqnW4yyHCBH1Paz)
